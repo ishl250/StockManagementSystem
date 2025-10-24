@@ -1,4 +1,4 @@
-# StockManagementSystem
+
 # Stock Management System
 
 A modern Stock Management System built with Node.js (Express) backend, React frontend, Tailwind CSS for styling, and Axios for API communication. This system helps manage inventory efficiently with real-time updates and a sleek UI.
